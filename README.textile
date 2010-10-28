@@ -1,0 +1,9 @@
+h1. The "IvoWeb.net":http://ivoweb.net Blog
+
+h2. By Dan Ivovich
+
+It was built by "Jekyll":http://github.com/mojombo/jekyll and is hosted by "GitHub Pages":http://pages.github.com/
+
+Content is Copyright Dan Ivovich
+
+Licensed to you under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 unless specified otherwise
