@@ -61,17 +61,20 @@ table {
 }
 
 #tweet {
-	
+	overflow: hidden;
 }
 
 #tweet li {
+	margin-left: 0px;
 	list-style-type: none;
 	font-size: 0.9em;
+	padding: 0.8em 0 1em 0;
+/*	border-bottom: 1px solid #ccc;*/
 }
 
-.tweet_even,
-.tweet_odd {
-	margin-bottom: 10px;
+#tweet li a {
+	word-wrap: break-word;
+	display: block;
 }
 
 a, a:visited {
@@ -121,10 +124,12 @@ a:hover{
 
 *.block
 {
+	clear: both;
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom: 20px;
-	min-height: 20px;
+	margin-bottom: 30px;
+	margin-top: 10px;
+	min-height: 50px;
 }
 
 *.block_source

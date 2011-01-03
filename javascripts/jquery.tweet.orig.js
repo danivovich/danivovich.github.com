@@ -99,10 +99,8 @@
       if(s.query) {
         query += 'q='+s.query;
       }
-      // query += '&q=from:'+s.username.join('%20OR%20from:');
-      // var url = 'http://search.twitter.com/search.json?&'+query+'&rpp='+s.count+'&callback=?';
-		query = 'screen_name=' + s.username;
-		var url = 'http://api.twitter.com/1/statuses/user_timeline.json?' + query + '&callback=?';
+      query += '&q=from:'+s.username.join('%20OR%20from:');
+      var url = 'http://search.twitter.com/search.json?&'+query+'&rpp='+s.count+'&callback=?';
       if (s.loading_text) $(this).append(loading);
       $.getJSON(url, function(data){
         if (s.loading_text) loading.remove();
