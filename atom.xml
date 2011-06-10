@@ -3,12 +3,74 @@
 	<title>IvoWeb</title>
 	<link href="http://ivoweb.net/atom.xml" rel="self"/>
 	<link href="http://ivoweb.net"/>
-	<updated>2011-01-02T22:47:52-05:00</updated>
+	<updated>2011-06-09T20:50:57-04:00</updated>
 	<id>http://ivoweb.net/</id>
 	<author>
 		<name>Dan Ivovich</name>
 		<email>dan@ivoweb.net</email>
 	</author>
+	
+	<entry>
+		<title>RailsConf 2011 Twitter Summary</title>
+		<link href="http://ivoweb.net/2011/06/09/Twitter-Summary.html"/>
+		<updated>2011-06-09T00:00:00-04:00</updated>
+		<id>http://blog.ivoweb.net/2011/06/09/Twitter-Summary</id>
+		<content type="html">&lt;p&gt;Had a great time a couple weeks ago at &lt;a href='http://en.oreilly.com/rails2011'&gt;RailsConf 2011&lt;/a&gt;. I didn&amp;#8217;t post nearly as much to &lt;a href='http://twitter.com/danivovich'&gt;Twitter&lt;/a&gt; as I did last year, but for the sake of record keeping, here are my posts of the week.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Pumped up for &lt;a href='http://twitter.com/search?q=%23railsconf'&gt;#railsconf&lt;/a&gt;! Looking at a great day of sessions after rocking &lt;a href='http://twitter.com/search?q=%23bohconf'&gt;#bohconf&lt;/a&gt; and &lt;a href='http://twitter.com/search?q=%23igniterc'&gt;#igniterc&lt;/a&gt; yesterday. - &lt;em&gt;&lt;a href='http://twitter.com/danivovich/status/70474212938223616'&gt;09:02 AM&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Great talk from @&lt;a href='http://twitter.com/j3'&gt;j3&lt;/a&gt; on presenters, dry, srp, and better Ruby code. Awesome session start for &lt;a href='http://twitter.com/search?q=%23railsconf'&gt;#railsconf&lt;/a&gt; - &lt;em&gt;&lt;a href='http://twitter.com/danivovich/status/70510866998640640'&gt;11:27 AM&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;I believe PostgreSQL is awesome, but thanks to @&lt;a href='http://twitter.com/ngauthier'&gt;ngauthier&lt;/a&gt;, I&amp;#8217;m now sure it is. &lt;a href='http://twitter.com/search?q=%23railsconf'&gt;#railsconf&lt;/a&gt; - &lt;em&gt;&lt;a href='http://twitter.com/danivovich/status/70521850865790976'&gt;12:11 PM&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Great morning here at &lt;a href='http://twitter.com/search?q=%23railsconf'&gt;#railsconf&lt;/a&gt;, just set a high bar for the rest of the sessions I attend. - &lt;em&gt;&lt;a href='http://twitter.com/danivovich/status/70525235669110784'&gt;12:25 PM&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Wrapped up a great day of &lt;a href='http://twitter.com/search?q=%23railsconf'&gt;#railsconf&lt;/a&gt; sessions. Looking forward to this evening&amp;#8217;s keynote and Ruby Heroes awards. - &lt;em&gt;&lt;a href='http://twitter.com/danivovich/status/70596735327666176'&gt;05:09 PM&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Really great &lt;a href='http://twitter.com/search?q=%23leanstartup'&gt;#leanstartup&lt;/a&gt; keynote from @&lt;a href='http://twitter.com/ericries'&gt;ericries&lt;/a&gt; at &lt;a href='http://twitter.com/search?q=%23railsconf'&gt;#railsconf&lt;/a&gt;. Great message and content, well delivered. Very much enjoyed - &lt;em&gt;&lt;a href='http://twitter.com/danivovich/status/70634386692907008'&gt;07:38 PM&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Awesome morning keynotes today at &lt;a href='http://twitter.com/search?q=%23railsconf'&gt;#railsconf&lt;/a&gt;. Thanks @&lt;a href='http://twitter.com/tenderlove'&gt;tenderlove&lt;/a&gt; and @&lt;a href='http://twitter.com/drnic'&gt;drnic&lt;/a&gt; - &lt;em&gt;&lt;a href='http://twitter.com/danivovich/status/70857756332142592'&gt;10:26 AM&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Thanks to @&lt;a href='http://twitter.com/tmm1'&gt;tmm1&lt;/a&gt; for the really great talk about tracking down performance issues. Really great information and awesome tools. &lt;a href='http://twitter.com/search?q=%23railsconf'&gt;#railsconf&lt;/a&gt; - &lt;em&gt;&lt;a href='http://twitter.com/danivovich/status/70923282781712386'&gt;02:46 PM&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Awesome talk about using redis where sql databases can fall short from @&lt;a href='http://twitter.com/jrirei'&gt;jrirei&lt;/a&gt; at &lt;a href='http://twitter.com/search?q=%23railsconf'&gt;#railsconf&lt;/a&gt; - &lt;em&gt;&lt;a href='http://twitter.com/danivovich/status/70923517679501312'&gt;02:47 PM&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Great morning at &lt;a href='http://twitter.com/search?q=%23railsconf'&gt;#railsconf&lt;/a&gt; so far. Awesome opening keynotes from @&lt;a href='http://twitter.com/abatalion'&gt;abatalion&lt;/a&gt;, @&lt;a href='http://twitter.com/coreyhaines'&gt;coreyhaines&lt;/a&gt; and @&lt;a href='http://twitter.com/danmelton'&gt;danmelton&lt;/a&gt;. - &lt;em&gt;&lt;a href='http://twitter.com/danivovich/status/71242543257489408'&gt;11:55 AM&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Very interesting and informative presentation on api&amp;#8217;s for the rich client with rails from @&lt;a href='http://twitter.com/wycats'&gt;wycats&lt;/a&gt; at &lt;a href='http://twitter.com/search?q=%23railsconf'&gt;#railsconf&lt;/a&gt; - &lt;em&gt;&lt;a href='http://twitter.com/danivovich/status/71242901224554496'&gt;11:56 AM&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Amazingly awesome presentation on backbone.js by @&lt;a href='http://twitter.com/mkelly12'&gt;mkelly12&lt;/a&gt; at &lt;a href='http://twitter.com/search?q=%23railsconf'&gt;#railsconf&lt;/a&gt;. Great content, well presented, lots of laughs, even Ke$ha. - &lt;em&gt;&lt;a href='http://twitter.com/danivovich/status/71290087673044993'&gt;03:04 PM&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;A great last day of &lt;a href='http://twitter.com/search?q=%23railsconf'&gt;#railsconf&lt;/a&gt; to end a great week. Really had an awesome time. - &lt;em&gt;&lt;a href='http://twitter.com/danivovich/status/71328935056646145'&gt;05:38 PM&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content>
+	</entry>
 	
 	<entry>
 		<title>Stack Exchange 2.0 Sites Go Live</title>
@@ -406,16 +468,6 @@
 &lt;p&gt;I was planning an entry on what is Web 2.0, but I think I may forgo that, excluding some other news article that inspires me to pick it up again, because I think that this post sums it up. At least for me, Web 2.0 is the Internet, for the user. It is a world wide web that can bring so much more to the consumer than anything could before. Services and capabilities that were once only available to huge enterprises who spend thousands upon thousands to develop a custom application. Soon may be the days when developing a &amp;#8220;custom&amp;#8221; application is simply selecting some great, open, existing solutions, and hooking them together through robust and useful API&amp;#8217;s.&lt;/p&gt;
 
 &lt;p&gt;The proceeding came to mind after seeing &lt;a href='http://www.tuaw.com/2008/05/29/big-changes-coming-to-mac'&gt;Big changed coming to .Mac?&lt;/a&gt; from &lt;a href='http://www.tuaw.com'&gt;TUAW&lt;/a&gt;. I hope Apple gives us yet another way to help connect our digital lives and our physical lives.&lt;/p&gt;</content>
-	</entry>
-	
-	<entry>
-		<title>What is New Media?</title>
-		<link href="http://ivoweb.net/2008/05/29/What-is-New-Media.html"/>
-		<updated>2008-05-29T00:00:00-04:00</updated>
-		<id>http://blog.ivoweb.net/2008/05/29/What-is-New-Media</id>
-		<content type="html">&lt;p&gt;I hear the term &amp;#8220;New Media&amp;#8221; thrown around just about as much at Web 2.0. It seems that it is hard to define these terms at a time where so much can change from day to day. What is it that changes? The technology is certainly changing, with the onset of new portable media products such as the iPhone and the Kindle just within the last year, new power has been brought to the palm of the user.&lt;/p&gt;
-
-&lt;p&gt;That seems to be the biggest trend in &amp;#8220;New Media&amp;#8221; and &amp;#8220;Web 2.0&amp;#8221; The power being shifted to the consumer. We no longer depend on big business for providing the content on their terms.&lt;/p&gt;</content>
 	</entry>
 	
 </feed>
