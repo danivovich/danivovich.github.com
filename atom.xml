@@ -3,7 +3,7 @@
 	<title>IvoWeb</title>
 	<link href="http://ivoweb.net/atom.xml" rel="self"/>
 	<link href="http://ivoweb.net"/>
-	<updated>2011-06-09T20:50:57-04:00</updated>
+	<updated>2012-04-25T00:22:45-05:00</updated>
 	<id>http://ivoweb.net/</id>
 	<author>
 		<name>Dan Ivovich</name>
@@ -13,7 +13,7 @@
 	<entry>
 		<title>RailsConf 2011 Twitter Summary</title>
 		<link href="http://ivoweb.net/2011/06/09/Twitter-Summary.html"/>
-		<updated>2011-06-09T00:00:00-04:00</updated>
+		<updated>2011-06-09T00:00:00-05:00</updated>
 		<id>http://blog.ivoweb.net/2011/06/09/Twitter-Summary</id>
 		<content type="html">&lt;p&gt;Had a great time a couple weeks ago at &lt;a href='http://en.oreilly.com/rails2011'&gt;RailsConf 2011&lt;/a&gt;. I didn&amp;#8217;t post nearly as much to &lt;a href='http://twitter.com/danivovich'&gt;Twitter&lt;/a&gt; as I did last year, but for the sake of record keeping, here are my posts of the week.&lt;/p&gt;
 
@@ -75,7 +75,7 @@
 	<entry>
 		<title>Stack Exchange 2.0 Sites Go Live</title>
 		<link href="http://ivoweb.net/2010/07/08/StackExchange.html"/>
-		<updated>2010-07-08T00:00:00-04:00</updated>
+		<updated>2010-07-08T00:00:00-05:00</updated>
 		<id>http://blog.ivoweb.net/2010/07/08/StackExchange</id>
 		<content type="html">&lt;p&gt;The days have arrived as Stack Exchange 2.0 sites are beginning their betas. If you are unfamiliar with Stack Exchange or Stack Exchange 2.0, check out the introduction &lt;a href='http://blog.stackoverflow.com/2010/04/changes-to-stack-exchange/'&gt;blog post&lt;/a&gt;. Stack Exchange uses the engine that powers the original trilogy of Q&amp;amp;A websites that began with &lt;a href='http://stackoverflow.com/'&gt;Stack Overflow&lt;/a&gt;.&lt;/p&gt;
 
@@ -89,7 +89,7 @@
 	<entry>
 		<title>RailsConf 2010 Day 3 Twitter Summary</title>
 		<link href="http://ivoweb.net/2010/06/10/Twitter-Summary.html"/>
-		<updated>2010-06-10T00:00:00-04:00</updated>
+		<updated>2010-06-10T00:00:00-05:00</updated>
 		<id>http://blog.ivoweb.net/2010/06/10/Twitter-Summary</id>
 		<content type="html">&lt;p&gt;The last and final amazing day at &lt;a href='http://en.oreilly.com/rails2010'&gt;RailsConf 2010&lt;/a&gt;! It was such an amazing event. I gained a ton of knowledge, met some great people, heard and shared some cool ideas, and really just had a packed week of fun and learning. The &lt;a href='http://rubyonrails.org'&gt;Ruby On Rails&lt;/a&gt; community is truly amazing. I&amp;#8217;m really looking forward to continuing to work with Rails and be part of such an amazing ecosystem.&lt;/p&gt;
 
@@ -177,7 +177,7 @@
 	<entry>
 		<title>RailsConf 2010 Day 2 Twitter Summary</title>
 		<link href="http://ivoweb.net/2010/06/09/Twitter-Summary.html"/>
-		<updated>2010-06-09T00:00:00-04:00</updated>
+		<updated>2010-06-09T00:00:00-05:00</updated>
 		<id>http://blog.ivoweb.net/2010/06/09/Twitter-Summary</id>
 		<content type="html">&lt;p&gt;Another amazing day at &lt;a href='http://en.oreilly.com/rails2010'&gt;RailsConf 2010&lt;/a&gt;! There were a ton of great talks and it was very difficult to pick which to attend. Here is a summary of my &lt;a href='http://twitter.com/danivovich'&gt;Twitter&lt;/a&gt; activity for the day.&lt;/p&gt;
 
@@ -239,7 +239,7 @@
 	<entry>
 		<title>RailsConf 2010 Day 1 Twitter Summary</title>
 		<link href="http://ivoweb.net/2010/06/08/Twitter-Summary.html"/>
-		<updated>2010-06-08T00:00:00-04:00</updated>
+		<updated>2010-06-08T00:00:00-05:00</updated>
 		<id>http://blog.ivoweb.net/2010/06/08/Twitter-Summary</id>
 		<content type="html">&lt;p&gt;Had another great day at &lt;a href='http://en.oreilly.com/rails2010'&gt;RailsConf 2010&lt;/a&gt;! Here is a summary of my &lt;a href='http://twitter.com/danivovich'&gt;Twitter&lt;/a&gt; activity.&lt;/p&gt;
 
@@ -309,7 +309,7 @@
 	<entry>
 		<title>RailsConf 2010 Tutorial Day Twitter Summary</title>
 		<link href="http://ivoweb.net/2010/06/07/Twitter-Summary.html"/>
-		<updated>2010-06-07T00:00:00-04:00</updated>
+		<updated>2010-06-07T00:00:00-05:00</updated>
 		<id>http://blog.ivoweb.net/2010/06/07/Twitter-Summary</id>
 		<content type="html">&lt;p&gt;Had a great day at &lt;a href='http://en.oreilly.com/rails2010'&gt;RailsConf 2010&lt;/a&gt;! Here is a summary of my &lt;a href='http://twitter.com/danivovich'&gt;Twitter&lt;/a&gt; activity.&lt;/p&gt;
 
@@ -367,7 +367,7 @@
 	<entry>
 		<title>Jekyll</title>
 		<link href="http://ivoweb.net/2010/06/05/jekyll.html"/>
-		<updated>2010-06-05T00:00:00-04:00</updated>
+		<updated>2010-06-05T00:00:00-05:00</updated>
 		<id>http://blog.ivoweb.net/2010/06/05/jekyll</id>
 		<content type="html">&lt;p&gt;I&amp;#8217;ve started using &lt;a href='http://jekyllrb.com/'&gt;Jekyll&lt;/a&gt; instead of &lt;a href='http://wordpress.org/'&gt;WordPress&lt;/a&gt; for this website/blog.&lt;/p&gt;
 
@@ -405,7 +405,7 @@
 	<entry>
 		<title>Python First Impressions</title>
 		<link href="http://ivoweb.net/2008/10/07/python-first-impressions.html"/>
-		<updated>2008-10-07T00:00:00-04:00</updated>
+		<updated>2008-10-07T00:00:00-05:00</updated>
 		<id>http://blog.ivoweb.net/2008/10/07/python-first-impressions</id>
 		<content type="html">&lt;p&gt;I&amp;#8217;ve recently started learning and programming in Python. It is an exciting and new experience for me, and since it had been so long since I&amp;#8217;ve posted to this site, I felt that it would be a good time to share some initial impressions.&lt;br /&gt;I&amp;#8217;ve primarily worked in compiled languages, so the dynamic typing in Python has been a big adjustment&lt;/p&gt;
 
@@ -433,7 +433,7 @@
 	<entry>
 		<title>myOpenID addes two-factor authentication support</title>
 		<link href="http://ivoweb.net/2008/05/29/myOpenID-addes-two-factor-authentication-support.html"/>
-		<updated>2008-05-29T00:00:00-04:00</updated>
+		<updated>2008-05-29T00:00:00-05:00</updated>
 		<id>http://blog.ivoweb.net/2008/05/29/myOpenID-addes-two-factor-authentication-support</id>
 		<content type="html">&lt;p&gt;Just noticed when logging in here with my OpenID, that &lt;a href='https://www.myopenid.com'&gt;myOpenID&lt;/a&gt; has partnered with &lt;a href='https://www.phonefactor.net'&gt;PhoneFactor&lt;/a&gt; to create a great two-factor authentication scheme.&lt;/p&gt;
 
@@ -449,7 +449,7 @@
 	<entry>
 		<title>Bringing enterprise services to the average user.</title>
 		<link href="http://ivoweb.net/2008/05/29/bringing-enterprise-services-to-the-average-user.html"/>
-		<updated>2008-05-29T00:00:00-04:00</updated>
+		<updated>2008-05-29T00:00:00-05:00</updated>
 		<id>http://blog.ivoweb.net/2008/05/29/bringing-enterprise-services-to-the-average-user</id>
 		<content type="html">&lt;p&gt;Today&amp;#8217;s users want everything to just work! Who can bring enterprise level inter-interoperability to the average user? It would seem that Apple has made some huge strides, and might be gearing up for another one, with big hopes for new announcements at WWDC.&lt;/p&gt;
 
