@@ -3,12 +3,28 @@
 	<title>IvoWeb</title>
 	<link href="http://ivoweb.net/atom.xml" rel="self"/>
 	<link href="http://ivoweb.net"/>
-	<updated>2012-08-28T20:50:21-04:00</updated>
+	<updated>2012-09-05T21:17:46-04:00</updated>
 	<id>http://ivoweb.net/</id>
 	<author>
 		<name>Dan Ivovich</name>
 		<email>dan@ivoweb.net</email>
 	</author>
+	
+	<entry>
+		<title>Goodbye IvoWeb, Hello New</title>
+		<link href="http://ivoweb.net/2012/09/05/New-Site.html"/>
+		<updated>2012-09-05T00:00:00-04:00</updated>
+		<id>http://blog.ivoweb.net/2012/09/05/New-Site</id>
+		<content type="html">&lt;p&gt;This domain name has served me well for a long time, but it has never really represented me. It is simply an unclever combination of the first 3 letters of my last name, and web, the place where the domain lives.&lt;/p&gt;
+
+&lt;p&gt;The content on IvoWeb.net has changed a few times over the years, and the technology hosting as changed even more. Now that I have become less experimental with my personal site and simply use &lt;a href='/2010/06/05/jekyll.html'&gt;Jekyll&lt;/a&gt;, I feel it is a good time to relaunch the site, and focus on keeping the content up-to-date, rather than the software&lt;/p&gt;
+
+&lt;p&gt;To this end, I am launching a refresh of this website at &lt;a href='http://danivovich.com'&gt;danivovich.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This site as it is will live on a short while to give the few RSS subsribers a chance to add the new feedburner url, as that seems to be the only thing I can&amp;#8217;t seamlessly redirect. After that time, it will automatically redirect to the new site.&lt;/p&gt;
+
+&lt;p&gt;I hope you enjoy the new site.&lt;/p&gt;</content>
+	</entry>
 	
 	<entry>
 		<title>RailsConf 2012 Twitter Summary</title>
@@ -534,22 +550,6 @@
 &lt;p&gt;Most of all, as I&amp;#8217;ve mentioned throughout this, but to sum up, I&amp;#8217;m impressed with the ability to quickly get usefully code working in Python.&lt;/p&gt;
 
 &lt;p&gt;Note: Please remember this is just my first pass and initial impressions. As I work on my project more and complete it, I&amp;#8217;ll be able to say more about it. But as a young software developer learning a new language, this was an exciting opportunity to share my experience.&lt;/p&gt;</content>
-	</entry>
-	
-	<entry>
-		<title>myOpenID addes two-factor authentication support</title>
-		<link href="http://ivoweb.net/2008/05/29/myOpenID-addes-two-factor-authentication-support.html"/>
-		<updated>2008-05-29T00:00:00-04:00</updated>
-		<id>http://blog.ivoweb.net/2008/05/29/myOpenID-addes-two-factor-authentication-support</id>
-		<content type="html">&lt;p&gt;Just noticed when logging in here with my OpenID, that &lt;a href='https://www.myopenid.com'&gt;myOpenID&lt;/a&gt; has partnered with &lt;a href='https://www.phonefactor.net'&gt;PhoneFactor&lt;/a&gt; to create a great two-factor authentication scheme.&lt;/p&gt;
-
-&lt;p&gt;Using a phone for authentication is not a new idea (relatively). Bank of America has been doing an SMS based system for a little while now, where they send you a temporary code as you try and log in, and then you use that code to complete the authentication. This is a great, secure, and simple method to ensure that at least the person who has my cell phone, is the one trying to get into my online backing. My problem is that I&amp;#8217;m stuck in the stone ages and don&amp;#8217;t have a text messaging plan, but I do enjoy keeping my 5-10 bucks a month.&lt;/p&gt;
-
-&lt;p&gt;myOpenID has now provided a similar two-factor method, but instead of a text message, it is a free (or well included) call to any touch-tone phone, that simply requires me to hit the # key.&lt;/p&gt;
-
-&lt;p&gt;This is elegant in its simplicity, innovative in its ability to not leave out those without SMS, and great in the fact that it costs me nothing more than what I pay already.&lt;/p&gt;
-
-&lt;p&gt;Check out the details on the myOpenID site &lt;a href='https://www.myopenid.com/about_callverifid'&gt;https://www.myopenid.com/about_callverifid&lt;/a&gt;&lt;/p&gt;</content>
 	</entry>
 	
 </feed>
