@@ -1,15 +1,15 @@
-<!-- generated-on="2012-09-05T22:16:51-04:00" --> 
+<!-- generated-on="2012-09-09T15:32:52-04:00" --> 
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>http://ivoweb.net</loc> 
-		<lastmod>2012-09-05T22:16:51-04:00</lastmod> 
+		<lastmod>2012-09-09T15:32:52-04:00</lastmod> 
 		<changefreq>daily</changefreq> 
 		<priority>1.0</priority> 
 	</url> 
 	
 	<url>
-		<loc>http://ivoweb.net/2012/09/05/New-Site.html</loc>
-		<lastmod>2012-09-05T00:00:00-04:00</lastmod>
+		<loc>http://ivoweb.net/2012/09/09/New-Site.html</loc>
+		<lastmod>2012-09-09T00:00:00-04:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>

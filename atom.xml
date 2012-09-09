@@ -3,7 +3,7 @@
 	<title>IvoWeb</title>
 	<link href="http://ivoweb.net/atom.xml" rel="self"/>
 	<link href="http://ivoweb.net"/>
-	<updated>2012-09-05T22:16:51-04:00</updated>
+	<updated>2012-09-09T15:32:52-04:00</updated>
 	<id>http://ivoweb.net/</id>
 	<author>
 		<name>Dan Ivovich</name>
@@ -12,9 +12,9 @@
 	
 	<entry>
 		<title>Goodbye IvoWeb, Hello New</title>
-		<link href="http://ivoweb.net/2012/09/05/New-Site.html"/>
-		<updated>2012-09-05T00:00:00-04:00</updated>
-		<id>http://blog.ivoweb.net/2012/09/05/New-Site</id>
+		<link href="http://ivoweb.net/2012/09/09/New-Site.html"/>
+		<updated>2012-09-09T00:00:00-04:00</updated>
+		<id>http://blog.ivoweb.net/2012/09/09/New-Site</id>
 		<content type="html">&lt;p&gt;This domain name has served me well for a long time, but it has never really represented me. It is simply an unclever combination of the first 3 letters of my last name, and web, the place where the domain lives.&lt;/p&gt;
 
 &lt;p&gt;The content on IvoWeb.net has changed a few times over the years, and the technology hosting as changed even more. Now that I have become less experimental with my personal site and simply use &lt;a href='/2010/06/05/jekyll.html'&gt;Jekyll&lt;/a&gt;, I feel it is a good time to relaunch the site, and focus on keeping the content up-to-date, rather than the software&lt;/p&gt;
